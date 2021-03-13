@@ -1,4 +1,5 @@
 import calculator
+
 class TestCalculator:
 	
 	def test_add(self):
