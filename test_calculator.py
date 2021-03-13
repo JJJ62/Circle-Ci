@@ -1,4 +1,3 @@
-  
 import calculator
 
 class TestCalculator:
